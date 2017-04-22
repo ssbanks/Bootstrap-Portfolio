@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+
+.container-fluid{
+  background-color: #ffffff;
+}
+.navbar-header {
+  background-color: #4aaaa5;
+}
+.wrapper { 
+    background-image:url("../images/background.png");
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -80px; 
+}
+footer, .shift {
+    height: 80px; 
+}
+
+footer {
+  bottom: 0;
+}
